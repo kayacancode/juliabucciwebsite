@@ -25,7 +25,7 @@ const Gridofphotos = () => {
             class = "object-contain  "
            
         />
-        <p class = "opacity-0 hover:opacity-100 bg-white duration-300 cursor-pointer absolute inset-0 z-10 flex justify-center text-center items-center text-4xl text-[#F6882D]  ">Carr revisted</p>
+        <p class = "opacity-0 hover:opacity-100 bg-white duration-300 cursor-pointer absolute inset-0 z-10 flex justify-center text-center items-center text-4xl text-[#F6882D]">Carr revisted</p>
         </div>
         </a>
        
@@ -35,7 +35,7 @@ const Gridofphotos = () => {
           </div>
 
           <div class="px-20 ">
-                <Link href = "/carrrevisted">
+                <Link href = "/spacethenextfrontier">
         
             <div class="w-full rounded object-contain drop-shadow-md ">
                 <div class="w-64 h-64 relative ">
@@ -58,7 +58,7 @@ const Gridofphotos = () => {
     </Link>
           </div>
           <div class="px-20 ">
-                <Link href = "/carrrevisted">
+                <Link href = "/shelter">
         
             <div class="w-full rounded object-contain drop-shadow-md ">
                 <div class="w-64 h-64 relative ">
@@ -81,7 +81,7 @@ const Gridofphotos = () => {
     </Link>
           </div>
           <div class="px-20 ">
-                <Link href = "/carrrevisted">
+                <Link href = "/fields">
         
             <div class="w-full rounded object-contain drop-shadow-md ">
                 <div class="w-64 h-64 relative ">
