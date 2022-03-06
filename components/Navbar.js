@@ -89,7 +89,7 @@ const Navbar = () => {
                 portfolio
               </a>
             </Link>
-            <Link href='#'>
+            <Link href='/about'>
               <a className='lg:inline-flex lg:w-auto w-full px-3 py-2  text-[#231F20]font-bold items-center justify-center text-center text-2xl hover:text-[#F6882D]'>
                 about
               </a>
