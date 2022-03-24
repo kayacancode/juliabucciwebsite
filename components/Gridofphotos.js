@@ -103,6 +103,30 @@ const Gridofphotos = () => {
     </div>
     </Link>
           </div>
+
+          <div class="px-20 ">
+                <Link href = "/precedent">
+        
+            <div class="w-full rounded object-contain drop-shadow-md ">
+                <div class="w-64 h-64 relative ">
+                    
+                
+       <a>
+           <div class = "absolute inset-0 bg-cover bg-center z-0 ">
+           <Image src= "/g1.jpg" 
+            width={306} 
+            height={296} 
+            class = "object-contain  "
+           
+        />
+        <p class = "opacity-0 hover:opacity-100 bg-white duration-300 cursor-pointer absolute inset-0 z-10 flex justify-center text-center items-center text-4xl text-[#F6882D]  ">Precedent: Glass House, Lina Bo Bardi</p>
+        </div>
+        </a>
+       
+        </div>
+    </div>
+    </Link>
+          </div>
           </div>
         </div>
         </div>

@@ -29,7 +29,10 @@ const ProjectFooter = () => {
                 <a class = "p-5 hover:text-[#BBBBBB]">fields</a>
                         
                         </Link>
-                              
+                        <Link href = "/precedent">
+                <a class = "p-5 hover:text-[#BBBBBB]">Precedent: Glass House, Lina Bo Bardi</a>
+                        
+                        </Link>
             </div>
             
         </div>
