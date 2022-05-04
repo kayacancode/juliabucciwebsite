@@ -1,6 +1,6 @@
 {
   "name": "bucciwebsite",
-  "homepage": "http://kayacancode.github.io/juliabucciwebsite",
+  "homepage": "https://kayacancode.github.io/juliabucciwebsite",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
