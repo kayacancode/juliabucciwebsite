@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/about": "pages/about.html",
+  "/api/hello": "pages/api/hello.js",
+  "/carrrevisted": "pages/carrrevisted.html",
+  "/fields": "pages/fields.html",
+  "/": "pages/index.html",
+  "/precedent": "pages/precedent.html",
+  "/shelter": "pages/shelter.html",
+  "/spacethenextfrontier": "pages/spacethenextfrontier.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
